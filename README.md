@@ -1,2 +1,2 @@
 # JavaScript
-This repository is for storing the codes made in Introduction to JavaScript Course by Digital Innovation One
+This repository is for storing JavaScript codes made in my learning the language
